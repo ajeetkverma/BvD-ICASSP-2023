@@ -38,7 +38,8 @@ Should you find our work interesting and would like to cite it, please feel free
   title={Drone-vs-Bird: Drone Detection Using YOLOv7 with CSRT Tracker}, 
   year={2023},
   keywords={Surveillance;Signal processing;Acoustics;Object tracking;Speech processing;Drones},
-  doi={10.1109/ICASSP49357.2023.10095146}}
+  doi={10.1109/ICASSP49357.2023.10095146}
+}
 
 ```
 
