@@ -34,15 +34,10 @@ Should you find our work interesting and would like to cite it, please feel free
 ```
 @INPROCEEDINGS{10095146,
   author={Mistry, Sahaj K. and Chatterjee, Shreyas and Verma, Ajeet K. and Jakhetiya, Vinit and Subudhi, Badri N. and Jaiswal, Sunil},
-
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-
   title={Drone-vs-Bird: Drone Detection Using YOLOv7 with CSRT Tracker}, 
-
   year={2023},
-
   keywords={Surveillance;Signal processing;Acoustics;Object tracking;Speech processing;Drones},
-
   doi={10.1109/ICASSP49357.2023.10095146}}
 
 ```
