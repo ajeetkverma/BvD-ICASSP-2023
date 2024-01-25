@@ -32,6 +32,7 @@ Use `tracker_yolo_output.ipynb` along with the video data and generated text fil
 Should you find our work interesting and would like to cite it, please feel free to add these to your references!
 
 ```
+% YOLOv7_CSRT
 @INPROCEEDINGS{10095146,
   author={Mistry, Sahaj K. and Chatterjee, Shreyas and Verma, Ajeet K. and Jakhetiya, Vinit and Subudhi, Badri N. and Jaiswal, Sunil},
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
