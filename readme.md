@@ -28,6 +28,9 @@ Once the YOLOv7 is trained, use the `detect.py` file from cloned yolov7 folder t
 Use `tracker_yolo_output.ipynb` along with the video data and generated text file containing bounding boxes to get the **[CSRT Tracker](https://docs.opencv.org/3.4/d2/da2/classcv_1_1TrackerCSRT.html) Powered YOLOv7 Output** 
 
 ## **Citation**
+
+Should you find our work interesting and would like to cite it, please feel free to add these to your references!
+
 ```
 @INPROCEEDINGS{10095146,
   author={Mistry, Sahaj K. and Chatterjee, Shreyas and Verma, Ajeet K. and Jakhetiya, Vinit and Subudhi, Badri N. and Jaiswal, Sunil},
