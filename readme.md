@@ -11,7 +11,7 @@
 Drone detection has become a critical component of surveillance, but detecting small drones remains a challenge. In this work, we introduce a new drone detection scheme that uses a customized YOLOv7 combined with a tracker. Using simple YOLOv7 has some limitations, including false positives and difficulty detecting drones in complex environments. To address these issues, we propose two solutions. First, we use a simple method based on the probability or confidence level of detected objects to reduce the number of false positives. Second, we integrate YOLOv7 with object tracking to detect drones in complex environments. Our proposed method was successful in achieving a top-5 ranking in the 6 th edition of the Drone-vs-Bird challenge, which was organized by the ICASSP Signal Processing Grand Challenge in 2023.
 
 ## **Dataset**
-The dataset was provided by the [WOSDETC](https://wosdetc2023.wordpress.com/drone-vs-bird-detection-challenge/) workshop & challenge [@ICASSP2023](https://2023.ieeeicassp.org/)  committee. To aquire the dataset you may contact the [committee](https://wosdetc2023.wordpress.com/committee/).
+The dataset was provided by the [WOSDETC](https://wosdetc2023.wordpress.com/drone-vs-bird-detection-challenge/) workshop & challenge [@ICASSP2023](https://2023.ieeeicassp.org/)  committee. To aquire the dataset you may [contact the committee](https://wosdetc2023.wordpress.com/committee/).
 
 ## **Usage**
 
