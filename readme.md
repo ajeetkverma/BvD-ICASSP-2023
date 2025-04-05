@@ -1,7 +1,7 @@
 # **Drone-vs-Bird: Drone Detection Using YOLOv7 with CSRT Tracker** (Official implementation)  <!-- omit in toc -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![PyTorch](https://img.shields.io/badge/PyTorch_v1.10.1-EE4C2C?&logo=pytorch&logoColor=white) 
 
->#### [Drone-vs-Bird: Drone Detection Using YOLOv7 with CSRT Tracker](https://ieeexplore.ieee.org/document/10095146)
+>#### Paper: [Drone-vs-Bird: Drone Detection Using YOLOv7 with CSRT Tracker](https://ieeexplore.ieee.org/document/10095146)
 > ##### [(Sahaj K. Mistry](https://scholar.google.com/citations?user=54EbWw0AAAAJ&hl=en), [Ajeet K. Verma)](https://scholar.google.com/citations?user=PmR85OsAAAAJ&hl=en)
 
 [[Paper]](https://ieeexplore.ieee.org/document/10095146)
